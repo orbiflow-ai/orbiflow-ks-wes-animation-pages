@@ -1,9 +1,15 @@
 # 厚木Ⅳ WES 仓库作业动画
 
-观看地址：[打开仓库作业动画](https://orbiflow-ai.github.io/orbiflow-ks-wes-animation-pages/)
+观看地址：[中文版](https://orbiflow-ai.github.io/orbiflow-ks-wes-animation-pages/?lang=zh) · [日本語版](https://orbiflow-ai.github.io/orbiflow-ks-wes-animation-pages/?lang=ja)
 
 本仓库是 GitHub Pages 的公开发布内容。`index.html` 为完整静态页面，包含样式、脚本及演示数据，无外部资源依赖。
 
 动画提供8个场景、64个步骤，可查看货物流转、WES / Geek / 村田机械的职责及待确认问题。设备位置、路由、动作时长和数据为讲解示意，出库仅依据现有概要；不代表已实现能力或现场验收结论。
+
+v2增加每一步的设备及所属方标注，并支持全页中日文切换，包含60项需求和55个待确认问题。切换语言保留当前场景与播放进度；右上角可切换语言，也可直接分享上方指定语言的链接。
+
+AGF、HT、平板、标签打印机等供货或控制范围仍待确认。U形ST（日文：コの字ST）区分KC人工操作和设备控制，未把未决分工写成已定供应商。
+
+日本語：各ステップに使用設備・担当範囲を表示し、右上から中国語／日本語を切り替えられます。AGF、HT、タブレット、ラベルプリンター等の供給・制御範囲は要確認です。コの字STはKCの人手作業と設備制御を分けて確認します。本動画は協議用の模式表現であり、実設備の受入試験結果を示すものではありません。
 
 GitHub Pages 从 `main` 分支根目录发布。更新 `index.html` 并推送后，GitHub 自动重新部署。
